@@ -1,0 +1,3 @@
+[submodule "lib/Coex.Shared"]
+	path = lib/Coex.Shared
+	url = https://github.com/decentlysizedfish/Coex.Shared.git
