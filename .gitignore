@@ -5,4 +5,5 @@ obj/
 .vs/
 .idea/
 .DS_Store
+Thumbs.db
 /Docs/
